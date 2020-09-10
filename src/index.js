@@ -23,7 +23,7 @@ module.exports = function check(str, bracketsConfig) {
         set i to negative number 
         so that loop starts over
         */
-                i = -10000;
+                i = -1;
             }
         }
     }
